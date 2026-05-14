@@ -1,7 +1,3 @@
-# CPU Scheduling Simulator — V8
-# Operating Systems Case Study
-# Instructor: Jo Anne Cura
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 
